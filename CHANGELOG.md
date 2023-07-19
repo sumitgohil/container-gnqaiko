@@ -1,3 +1,15 @@
+# v0.0.2 (Wed Jul 19 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Update index.html ([@sumitgohil](https://github.com/sumitgohil))
+
+#### Authors: 1
+
+- Sumit Gohil ([@sumitgohil](https://github.com/sumitgohil))
+
+---
+
 # v0.0.1 (Wed Jul 19 2023)
 
 :tada: This release contains work from a new contributor! :tada:
